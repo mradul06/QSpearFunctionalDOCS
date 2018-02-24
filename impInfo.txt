@@ -1,0 +1,9 @@
+192.168.1.70
+qspear/Redhat@12345
+http://teqip2-pmss.com/Demo/Default.aspx
+Login ( Institute Level) : pcwits / demo123
+SPIU Login    : spcuk/demo123
+National Institue   : pc-npiu/demo123
+dirbpuo/demo123
+pcbpuo/ demo123
+tcbpuo/demo123
